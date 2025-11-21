@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "TemplateWebExtension", "..\EngineerSchool.Diplom\DocsVision.BusinessTrip.WebClient.Front\TemplateWebExtension.esproj", "{ECB3AA59-A6C5-986D-F426-DD206DA105B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateServerExtension", "..\EngineerSchool.Diplom\DocsVision.BusinessTrip.WebClient.Server\TemplateServerExtension.csproj", "{183B0F5A-8E75-0568-C2FC-636C83254202}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateDesignerExtension", "..\EngineerSchool.Diplom\Docsvision Web-layout designer extension template\TemplateDesignerExtension.csproj", "{F32AA7B7-F1DF-B77F-651E-20C22080327E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECB3AA59-A6C5-986D-F426-DD206DA105B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB3AA59-A6C5-986D-F426-DD206DA105B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB3AA59-A6C5-986D-F426-DD206DA105B2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{ECB3AA59-A6C5-986D-F426-DD206DA105B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB3AA59-A6C5-986D-F426-DD206DA105B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECB3AA59-A6C5-986D-F426-DD206DA105B2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{183B0F5A-8E75-0568-C2FC-636C83254202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{183B0F5A-8E75-0568-C2FC-636C83254202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{183B0F5A-8E75-0568-C2FC-636C83254202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{183B0F5A-8E75-0568-C2FC-636C83254202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F32AA7B7-F1DF-B77F-651E-20C22080327E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32AA7B7-F1DF-B77F-651E-20C22080327E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32AA7B7-F1DF-B77F-651E-20C22080327E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32AA7B7-F1DF-B77F-651E-20C22080327E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3205D441-6E12-4F4A-A5F3-85A681D82372}
+	EndGlobalSection
+EndGlobal
